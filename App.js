@@ -1,8 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { Alert, TouchableOpacity, StyleSheet, Text, View } from 'react-native';
-
 import { LinearGradient } from "expo-linear-gradient";
-import { BlurView } from 'expo-blur';
 
 export default function App() {
   return (
